@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "e2e": "cypress open"
   },
   "keywords": [],
   "author": "",
